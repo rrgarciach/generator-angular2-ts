@@ -1,0 +1,40 @@
+{
+  "name": "generator-angular2-ts",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rrgarciach/generator-angular2-ts.git"
+  },
+  "author": "Ruy Garcia <rrgarciach@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/rrgarciach/generator-angular2-ts/issues"
+  },
+  "homepage": "https://github.com/rrgarciach/generator-angular2-ts",
+  "engines": {
+    "node": ">=4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "angular yeoman",
+    "angular2 yeoman",
+    "angularjs",
+    "angular",
+    "angularjs2",
+    "angular2",
+    "typescript"
+  ],
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "1.0.0",
+    "lodash": "3.7.0",
+    "npm-check": "3.2.10",
+    "yeoman-generator": "0.19.2",
+    "yosay": "1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "2.2.4"
+  }
+}
